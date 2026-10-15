@@ -2,7 +2,7 @@
 
 Signierte Android-Builds der Dynamis App, für Geräte ohne Google Play. Gedacht für /e/OS, GrapheneOS, LineageOS und alle, die lieber ohne Store installieren. Hier liegt kein Quellcode, nur die fertigen Dateien.
 
-Die App selbst: [dynamis-app.ch](https://dynamis-app.ch)
+Die App selbst: [dynamis.vision/app](https://dynamis.vision/app)
 
 ## Installation
 
@@ -32,7 +32,7 @@ Ohne Store gibt es keine automatischen Updates. [Obtainium](https://obtainium.im
 
 Nach der Installation von Obtainium genügt ein Tippen auf diesen Link auf dem Telefon:
 
-[Dynamis in Obtainium hinzufügen](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ch.dynamis.app%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FDynamis-Verlag%2Fdynamis-app-releases%22%2C%22author%22%3A%22Dynamis%20Verlag%22%2C%22name%22%3A%22Dynamis%22%7D)
+[Dynamis in Obtainium hinzufügen](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22ch.dynamis.app%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FDynamis-Verlag%2Fdynamis-app-releases%22%2C%22author%22%3A%22Dynamis%20Seminare%20%26%20Verlag%22%2C%22name%22%3A%22Dynamis%22%7D)
 
 Von Hand geht es genauso: In Obtainium »App hinzufügen« öffnen und diese Adresse einsetzen.
 
@@ -46,8 +46,8 @@ Wer /e/OS nutzt, braucht diesen Weg nicht dauerhaft. Die App Lounge bezieht Apps
 
 ## Fragen
 
-[hello@dynamis-app.ch](mailto:hello@dynamis-app.ch)
+[info@dynamis.vision](mailto:info@dynamis.vision)
 
 ---
 
-© Dynamis Verlag. Die App ist urheberrechtlich geschützt, die Dateien hier dürfen unverändert weitergegeben werden.
+© Dynamis. Die App ist urheberrechtlich geschützt, die Dateien hier dürfen unverändert weitergegeben werden.
